@@ -1,0 +1,40 @@
+body{
+   background-image: url("kuhus/green_leafed_trees_branches_in_blur_green_leaves_background_4k_hd_nature (3).jpg");
+   background-size: 300px;
+}
+
+.main{
+    padding: 20px;
+    font-family: Serif	;
+    box-shadow: 5px  5px 7px 5px #021100e2;
+}
+
+.main h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: Serif;
+
+}
+
+input{
+    font-family: Serif, Helvetica,sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #2b8738;
+
+}
+
+input[type=submit]{
+    font-family: Serif, Helvetica, sans-serif;
+    width: 100%;
+    background-color: #2b8738;
+    border:none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+
+}
